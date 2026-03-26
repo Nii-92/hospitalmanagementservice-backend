@@ -3,7 +3,7 @@ GH1020706
 Hospital Management System Backend
 
 
-This is a Spring Boot backend for a Hospital Management System. It manages Patients, Doctors, Appointments, and Health Insurance** with full CRUD operations. The backend connects to a MySQL database and exposes RESTful API endpoints.
+This is a Spring Boot backend for a Hospital Management System. It manages Patients, Doctors, Appointments, and Health Insurance  with full CRUD operations. The backend connects to a MySQL database and exposes RESTful API endpoints.
 
 
 
